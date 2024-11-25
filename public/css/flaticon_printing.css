@@ -1,0 +1,95 @@
+@font-face {
+    font-family: "flaticon_printing";
+    src: url("../fonts/flaticon_printingdd84.ttf?571d706effc7edc3266b066281a217e5") format("truetype"),
+url("../fonts/flaticon_printingdd84.woff?571d706effc7edc3266b066281a217e5") format("woff"),
+url("../fonts/flaticon_printingdd84.woff2?571d706effc7edc3266b066281a217e5") format("woff2"),
+url("../fonts/flaticon_printingdd84.eot?571d706effc7edc3266b066281a217e5#iefix") format("embedded-opentype"),
+url("../fonts/flaticon_printingdd84.svg?571d706effc7edc3266b066281a217e5#flaticon_printing") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_printing !important;
+    font-style: normal;
+    font-weight: normal!important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-search:before {
+    content: "\f101";
+}
+.flaticon-shopping-bag:before {
+    content: "\f102";
+}
+.flaticon-check:before {
+    content: "\f103";
+}
+.flaticon-cross:before {
+    content: "\f104";
+}
+.flaticon-right-down:before {
+    content: "\f105";
+}
+.flaticon-printed:before {
+    content: "\f106";
+}
+.flaticon-heat-press:before {
+    content: "\f107";
+}
+.flaticon-suitcase:before {
+    content: "\f108";
+}
+.flaticon-shop:before {
+    content: "\f109";
+}
+.flaticon-trophy:before {
+    content: "\f10a";
+}
+.flaticon-star:before {
+    content: "\f10b";
+}
+.flaticon-google-docs:before {
+    content: "\f10c";
+}
+.flaticon-right-arrow:before {
+    content: "\f10d";
+}
+.flaticon-t-shirt:before {
+    content: "\f10e";
+}
+.flaticon-print:before {
+    content: "\f10f";
+}
+.flaticon-3d-printing:before {
+    content: "\f110";
+}
+.flaticon-roll:before {
+    content: "\f111";
+}
+.flaticon-3d-printer:before {
+    content: "\f112";
+}
+.flaticon-mockup-design:before {
+    content: "\f113";
+}
+.flaticon-no-print:before {
+    content: "\f114";
+}
+.flaticon-flyer:before {
+    content: "\f115";
+}
+.flaticon-location:before {
+    content: "\f116";
+}
+.flaticon-chat:before {
+    content: "\f117";
+}
+.flaticon-fax:before {
+    content: "\f118";
+}
+.flaticon-open:before {
+    content: "\f119";
+}
